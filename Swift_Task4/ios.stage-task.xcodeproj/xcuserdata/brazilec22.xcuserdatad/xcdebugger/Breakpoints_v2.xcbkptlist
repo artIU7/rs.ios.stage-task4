@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0030DDFA-227B-4FE7-B35C-5A2C201AEBFF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C85369B3-6D97-4E7F-8F4B-AF376EBE5652"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios.stage-taskTests/StationTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "test_addUsers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91CE615A-68FD-4EC3-BABB-992CF86FF30C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios.stage-taskTests/StationTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "test_simpleCall_1()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08B3098E-BE62-4047-8E15-B95F7CCD1689"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios.stage-taskTests/StationTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "test_simpleCall_1()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59CFB6BF-2210-4022-80C0-9DF3844CDB43"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios.stage-taskTests/StationTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "test_simpleCall_busy_1()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABDE5466-4046-415C-B754-CBB9FA405E36"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios.stage-task/Exercises/Exercise-3/CallStation.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "calls(user:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ABDE5466-4046-415C-B754-CBB9FA405E36 - c7b61e8fadc15447"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_stage_task.CallStation.calls(user: ios_stage_task.User) -&gt; Swift.Array&lt;ios_stage_task.Call&gt;"
+                  moduleName = "ios.stage-task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brazilec22/Documents/rs_ios/rs_ios_task4/Swift_Task4/ios.stage-task/Exercises/Exercise-3/CallStation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "1591">
+               </Location>
+               <Location
+                  uuid = "ABDE5466-4046-415C-B754-CBB9FA405E36 - e7756a2d30caada"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (ios_stage_task.Call) -&gt; Swift.Bool in ios_stage_task.CallStation.calls(user: ios_stage_task.User) -&gt; Swift.Array&lt;ios_stage_task.Call&gt;"
+                  moduleName = "ios.stage-task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brazilec22/Documents/rs_ios/rs_ios_task4/Swift_Task4/ios.stage-task/Exercises/Exercise-3/CallStation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "223">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
